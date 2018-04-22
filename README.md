@@ -28,7 +28,7 @@ automatically generate a report file
 
 in pathway ~/Desktop/Tests/name_of_program
 
-go in the pathway in the above line 
+Go in the pathway indicated in the above 
 
-and view the .results file with nvim.
+line and view the .results file with nvim.
 
